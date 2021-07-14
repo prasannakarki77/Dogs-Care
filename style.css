@@ -25,7 +25,6 @@ span {
   font-family: var(--font-raleway);
 }
 .header-section {
-  /* background: url(banner1.jpg)  */
   height: 98vh;
   width: 100%;
   color: var(--color-white);
@@ -394,7 +393,7 @@ button {
 
 .team-section {
   padding: 8rem 4rem;
-  background-image: url(bg.jpg);
+  background-image: url(images/bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
