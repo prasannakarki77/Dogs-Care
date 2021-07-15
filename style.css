@@ -489,7 +489,7 @@ button {
   transition: all 0.5s;
 }
 .text-orange:hover {
-  color: var(--color-white);
+  color: hsla(8, 93%, 61%, 0.8);
   cursor: pointer;
 }
 
