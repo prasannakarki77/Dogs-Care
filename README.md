@@ -43,6 +43,8 @@
 
 - HTML
 - CSS
+- JS
+
 
 ## Contact
 
